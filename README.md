@@ -10,7 +10,7 @@ Malaria dataset of 27,558 cell images with an equal number of parasitized and un
 ![kv](https://user-images.githubusercontent.com/75235334/193736032-b5847f1f-f002-4edc-912a-eaf48444f1b0.jpg)
 
 ## Neural Network Model:
-![image](https://user-images.githubusercontent.com/70213227/194773472-fd0fdcb0-7416-4429-b523-3a9798a75de4.png)
+![image](https://github.com/ShafeeqAhamedS/malaria-cell-recognition/assets/93427237/af999033-dd17-401f-94fc-2cd729f1d169)
 <br>
 ## DESIGN STEPS:
 
@@ -198,7 +198,7 @@ print(classification_report(test_image_gen.classes,predictions))
 
 confusion_matrix(test_image_gen.classes,predictions)
 ```
-### Check for custom image
+### Check for New Image
 ```py
 import random
 import tensorflow as tf
@@ -221,11 +221,12 @@ plt.show()
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-
+![image](https://github.com/ShafeeqAhamedS/malaria-cell-recognition/assets/93427237/a225ad9d-ab7e-49b0-9111-60f004c904b5)
 ### Classification Report
-
+![image](https://github.com/ShafeeqAhamedS/malaria-cell-recognition/assets/93427237/d8a44eed-9876-4c8d-8abf-2072680519be)
 ### Confusion Matrix
-
+![image](https://github.com/ShafeeqAhamedS/malaria-cell-recognition/assets/93427237/b849bc4c-24bb-468e-8106-20e4439e45fc)
 ### New Sample Data Prediction
-
-## RESULT
+![image](https://github.com/ShafeeqAhamedS/malaria-cell-recognition/assets/93427237/f1db77e8-e904-47bd-bd1c-2dc0e7e49a38)
+## RESULT:
+Thus, a deep neural network for Malaria infected cell recognition is developed and the performance is analyzed.

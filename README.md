@@ -8,8 +8,6 @@ To develop a deep neural network for Malaria infected cell recognition and to an
 
 ## Neural Network Model
 
-Include the neural network model diagram.
-
 ## DESIGN STEPS
 
 ### STEP 1:

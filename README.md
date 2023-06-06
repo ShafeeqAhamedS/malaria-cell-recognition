@@ -12,9 +12,9 @@ Malaria dataset of 27,558 cell images with an equal number of parasitized and un
 </p>
 
 ## Neural Network Model:
-![image](https://github.com/ShafeeqAhamedS/malaria-cell-recognition/assets/93427237/af999033-dd17-401f-94fc-2cd729f1d169)
+![image](https://github.com/ShafeeqAhamedS/malaria-cell-recognition/assets/93427237/38855152-5c96-4f5d-930f-6e6dbf5ffc2c)
 
-</br>
+</br></br></br>
 
 ## DESIGN STEPS:
 
@@ -184,15 +184,14 @@ plt.show()
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/ShafeeqAhamedS/malaria-cell-recognition/assets/93427237/a225ad9d-ab7e-49b0-9111-60f004c904b5)
+![image](https://github.com/ShafeeqAhamedS/malaria-cell-recognition/assets/93427237/143d8d8a-493c-4f83-85a2-6abcc7437570)
 ### Classification Report
-![image](https://github.com/ShafeeqAhamedS/malaria-cell-recognition/assets/93427237/d8a44eed-9876-4c8d-8abf-2072680519be)
+![image](https://github.com/ShafeeqAhamedS/malaria-cell-recognition/assets/93427237/17e1f6df-f192-4a06-b506-3a9593b3c9f2)
 ### Confusion Matrix
-![image](https://github.com/ShafeeqAhamedS/malaria-cell-recognition/assets/93427237/b849bc4c-24bb-468e-8106-20e4439e45fc)
-</br></br></br>
-</br></br></br>
+![image](https://github.com/ShafeeqAhamedS/malaria-cell-recognition/assets/93427237/feae1f95-819c-4bdc-9b5e-b81c6faa4895)
+
 
 ### New Sample Data Prediction
-![image](https://github.com/ShafeeqAhamedS/malaria-cell-recognition/assets/93427237/f1db77e8-e904-47bd-bd1c-2dc0e7e49a38)
+![image](https://github.com/ShafeeqAhamedS/malaria-cell-recognition/assets/93427237/86d2be3b-b9cd-4c2a-bbf8-d16a8489accd)
 ## RESULT:
 Thus, a deep neural network for Malaria infected cell recognition is developed and the performance is analyzed.
